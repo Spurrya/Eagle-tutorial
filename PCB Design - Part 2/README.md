@@ -12,18 +12,18 @@ The top and the bottom layers are connected to each other using 'vias'.
 
 Below is are the descriptions to some of the PCB layers:
 
-Top - Top copper layer, connections and pads to solder on components.
+* **Top**- Top copper layer, connections and pads to solder on components.
 
-Bottom - Copper layer on the bottom
+* **Bottom** - Copper layer on the bottom
 
-Vias - Connection b/w the top and bottom layers
+* **Vias** - Connection b/w the top and bottom layers
 
-Unrouted - Unrouted connections from your schematic diagram
+* **Unrouted** - Unrouted connections from your schematic diagram
 
-Dimension - Size of the board
+* **Dimension** - Size of the board
 
-T-place - Silkscreen on the top of the board which will tell you where to place the components
+* **T-place** - Silkscreen on the top of the board which will tell you where to place the components
 
-T-origin - Cross-section of the component so we know the center
+* **T-origin** - Cross-section of the component so we know the center
 
-T-name and value - Corresponding names and values of each components
+* **T-name and value** - Corresponding names and values of each components
