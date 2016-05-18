@@ -27,3 +27,21 @@ Below is are the descriptions to some of the PCB layers:
 * **T-origin** - Cross-section of the component so we know the center
 
 * **T-name and value** - Corresponding names and values of each components
+
+
+**Rasnet** helps us find the closest connection between the parts automatically.
+
+**Ground Plate** - We will be adding a ground plate in this workshop as it Assist with heat dissipation,Lower the resistance of the path and Electromagnetic shielding.
+
+However, we need to also be aware that there are several disadvantages of a ground plates as it can cause your circuit to be less responsive.
+
+Exceptionally quick circuits? Might want to remove the ground plate
+
+
+To draw the ground plate, use the polygon function and name is 'GND' (or the same name you gave your ground pins).
+
+EAGLE has an option to automatically map your connection and optimize it (to some extend on the free version).
+
+Click on 'Autorouter' - It will automatically create the connections for you
+
+Click on 'Via' to add via points
